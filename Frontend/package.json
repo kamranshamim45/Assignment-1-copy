@@ -2,7 +2,7 @@
   "name": "assignment1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kamranshamim45.github.io/Assignment-1-copy",
+  "homepage": "https://kamranshamim45.github.io/Assignment-1-copy/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
