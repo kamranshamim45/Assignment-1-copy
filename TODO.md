@@ -8,9 +8,9 @@
   - Create new Web Service for backend
   - Set root directory: backend
   - Set build command: npm install
-  - Set start command: npm start
+  - Set start command: yarn start
   - Set environment variables: MONGO_URI, JWT_SECRET, PORT
-  - Deploy
+  - Deploy (added detailed error logging for debugging)
 - [ ] Get deployed backend URL from Render
 - [ ] Configure frontend to use deployed backend:
   - Set VITE_API_URL environment variable to backend URL
