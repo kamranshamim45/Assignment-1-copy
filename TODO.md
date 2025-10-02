@@ -1,7 +1,7 @@
 # Deployment TODO
 
 - [x] Fix backend server.js to mount auth routes
-- [ ] Commit and push backend fixes to GitHub
+- [x] Commit and push backend fixes to GitHub
 - [ ] Deploy backend to Render:
   - Create Render account and connect GitHub repo
   - Create new Web Service for backend
