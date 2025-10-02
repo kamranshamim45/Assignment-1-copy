@@ -15,6 +15,10 @@ export const registerUser = async (formData) => {
 
 // src/services/api.js
 
+// src/services/api.js
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+
+
 const getInitialUsers = () => [
   { id: 1, name: "John Doe", email: "john@example.com", phone: "1234567890", age: 25, fatherNumber: "9876543210" },
   { id: 2, name: "Jane Smith", email: "jane@example.com", phone: "2345678901", age: 30, fatherNumber: "8765432109" },
